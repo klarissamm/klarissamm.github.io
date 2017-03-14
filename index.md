@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# Bio
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
-
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I am a creative, determined and enthusiastic full-stack web developer, with an international background in branding, research and analysis. I left an award-winning agency and enrolled in an intensive three-month web development course to equip myself with the skills needed to pursue my dream of working with emergent technologies that don’t simply react to culture, but disrupt and reshape it. I may be relatively new to the world of web development, but I am smart and committed, with both the ability and willingness to learn under pressure and on-the-job.
