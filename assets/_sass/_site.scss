@@ -194,7 +194,7 @@ canvas {
     }
     a {
       border: 30px solid transparent;
-      background: rgba(0, 0, 0, 0.3);
+      background: rgba(0, 0, 0, 0.7);
       position: absolute;
       top: 0;
       right: 0;
@@ -389,7 +389,7 @@ canvas {
 }
 
 .main-info {
-  color: $white;
+  color: #FEECED;
   h1 {
     font-weight: bold;
     text-transform: uppercase;
