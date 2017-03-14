@@ -9,7 +9,7 @@
   completed: true
 
 - title: VancApp
-  url: https://avocado-app.herokuapp.com
+  url: https://vanc-app.herokuapp.com
   image: http://i.imgur.com/serionf.jpg
   completed: true
 
@@ -18,7 +18,7 @@
   image: http://i.imgur.com/KHtQ61L.jpg
   completed: true
 
-- title: Find Out More
+- title: More Info
   url: https://profiles.generalassemb.ly/profiles/klarissamm
   image: http://i.imgur.com/bn2UuJQ.jpg?1
   completed: true
