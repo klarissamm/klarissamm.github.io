@@ -1,8 +1,8 @@
 # Site
-title: <br> Klarissa M Munz
+title: Klarissa M Munz
 description: WEB DEVELOPER
 url: ''
-logo: logo.jpeg                                       # Site logo
+logo: logo.jpeg <br>                                      # Site logo
 locale: en_US
 
 # Left Block Images
