@@ -13,12 +13,12 @@
   image: http://i.imgur.com/serionf.jpg
   completed: true
 
+- title: Github - More Info
+  url: https://github.com/klarissamm
+  image: https://imgur.com/21yeux9
+  completed: true
+
 - title: Squash 'Em
   url: https://quiet-ocean-43961.herokuapp.com/
   image: http://i.imgur.com/KHtQ61L.jpg
-  completed: true
-
-- title: More Info
-  url: https://profiles.generalassemb.ly/profiles/klarissamm
-  image: http://i.imgur.com/bn2UuJQ.jpg?1
   completed: true
