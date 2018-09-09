@@ -1,6 +1,6 @@
 # Site
 title: Klarissa M
-description: WEB DEVELOPER
+description: COMING SOON
 url: ''
 logo: logo.jpeg                                      # Site logo
 locale: en_US
@@ -29,14 +29,14 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             klarissamunz@gmail.com
+email:             treestar778@gmail.com
 #google.plus:        username
 # twitter:            username
 #facebook:           username
-github:             klarissamm/
+# github:             klarissamm/
 # stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          klarissa-munz/
-bitbucket:          klarissamm/
+# linkedin:          klarissa-munz/
+# bitbucket:          klarissamm/
 #xing:              username
 #instagram:          username
 #lastfm:            username
