@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Under Construction
+# Coming Soon
 
 <!-- I am a creative and determined technology enthusiast with an international background in development, research and analysis. I have worked at an award-winning research agency and completed an intensive three-month web development course at General Assembly. This has equipped me with the skills I need to pursue my goal of working with emergent technologies that don’t simply react to culture, but disrupt and reshape it. -->
 
