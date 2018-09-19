@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Tag Archive
 description: "An archive of posts sorted by tag."
@@ -22,4 +22,4 @@ permalink: /tags.html
     <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
-{% endunless %}{% endfor %}
+{% endunless %}{% endfor %} -->
